@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.png" alt="i-have-adhd" width="140" />
+  <a href="https://github.com/ayghri/i-have-adhd"> <img src="/logo.png" alt="i-have-adhd" width="140" /></a>
 </p>
 <p align="center">
   <strong align="center">ตอบได้ใจความไม่ยืดเยื้อ จะสมาธิสั้นหรือไม่ก็เข้าใจได้!</strong>
