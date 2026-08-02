@@ -114,7 +114,7 @@ claude plugin install i-have-adhd@i-have-adhd
 
 ## เครดิต
 
-สร้างขึ้นโดยอ้างอิงแนวคิดบางส่วนจากหนังสือ *The Adult ADHD Tool Kit* โดย J. Russell Ramsay และ Anthony L. Rostain นำมาปรับแต่งให้เหมาะสมที่ LLM ควรตอบ ไม่ใช่นำมาเป็นคู่มือมนุษย์ช่วยจัดการแทนชีวิตประจำวัน 
+สร้างขึ้นโดยอ้างอิงแนวคิดบางส่วนจากหนังสือ *The Adult ADHD Tool Kit* โดย J. Russell Ramsay และ Anthony L. Rostain และนำมาปรับแต่งให้เหมาะสมที่ LLM ควรตอบ ไม่ใช่นำมาเป็นคู่มือมนุษย์ช่วยจัดการแทนชีวิตประจำวัน 
 
 ## License
 
